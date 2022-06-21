@@ -1,0 +1,23 @@
+.marca{
+    color: cyan;
+    padding: 3px;
+}
+
+.cor{
+    animation-name: color-change;
+    animation-duration: 4s;
+    animation-iteration-count: infinite;
+    animation-direction: alternate;
+}
+
+@keyframes color-change {
+    0%   {color: red;}
+    25%  {color: yellow;}
+    50%  {color: blue;}
+    100% {color: green;}
+}
+
+.km{
+    color: cadetblue;
+    size: 30px;
+}
