@@ -1,0 +1,49 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Camisa",
+      "price": 59.9
+    },
+    {
+      "id": 2,
+      "name": "Calça vermelha",
+      "price": 90
+    },
+    {
+      "id": 3,
+      "name": "Boné aba reta",
+      "price": 29.9
+    },
+    {
+      "name": "Banana",
+      "price": "30",
+      "id": 4
+    },
+    {
+      "name": "Teclado",
+      "price": "120",
+      "id": 5
+    },
+    {
+      "name": "Teste",
+      "price": "1",
+      "id": 6
+    },
+    {
+      "name": "Pc Novo",
+      "price": "18000",
+      "id": 7
+    },
+    {
+      "name": "Alo",
+      "price": "2",
+      "id": 8
+    },
+    {
+      "name": "Cavalo Marinho",
+      "price": "900",
+      "id": 9
+    }
+  ]
+}
